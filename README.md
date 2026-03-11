@@ -1,3 +1,15 @@
+---
+title: AI Code Debugger Agent
+emoji: 🤖
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: "4.44.0"
+python_version: "3.10"
+app_file: app.py
+pinned: false
+---
+
 # 🤖 AI Code Debugger Agent
 
 > Autonomous AI agent that fixes broken Python code — no human needed.
