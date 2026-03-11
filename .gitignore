@@ -1,8 +1,26 @@
+# API Keys — NEVER push these
 .env
+
+# Python
 venv/
 __pycache__/
 *.pyc
-debugger_logs.db
+*.pyo
+*.pyd
+.Python
+
+# Database
+*.db
+*.sqlite
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
 test_out.txt
 test.py
 t.py
