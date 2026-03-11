@@ -1,0 +1,8 @@
+.env
+venv/
+__pycache__/
+*.pyc
+debugger_logs.db
+test_out.txt
+test.py
+t.py

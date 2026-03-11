@@ -1,0 +1,7 @@
+langchain
+langchain-groq
+langchain-google-genai
+langchain-community
+gradio
+tavily-python
+python-dotenv
