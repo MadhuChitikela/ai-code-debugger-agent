@@ -18,6 +18,14 @@ pinned: false
 ![LangChain](https://img.shields.io/badge/LangChain-0.2+-green)
 ![Groq](https://img.shields.io/badge/Groq-LLaMA3-orange)
 ![Gradio](https://img.shields.io/badge/UI-Gradio-red)
+[![HuggingFace Space](https://img.shields.io/badge/🤗%20HuggingFace-Live%20Demo-yellow)](https://huggingface.co/spaces/madhuchitikela/ai-code-debugger-agent)
+
+---
+
+## 🚀 Live Demo
+
+👉 **[https://huggingface.co/spaces/madhuchitikela/ai-code-debugger-agent](https://huggingface.co/spaces/madhuchitikela/ai-code-debugger-agent)**
+
 
 ---
 
