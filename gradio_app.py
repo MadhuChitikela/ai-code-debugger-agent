@@ -477,7 +477,7 @@ with gr.Blocks(
                     output = gr.Textbox(
                         label="Fixed Code + Explanation",
                         lines=13, max_lines=24,
-                        buttons=["copy"],
+                        show_copy_button=True,
                         elem_classes="out-code",
                         placeholder="✓  Patched code appears here…",
                         interactive=False,
