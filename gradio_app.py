@@ -405,8 +405,8 @@ with gr.Blocks(
     theme=gr.themes.Base(
         primary_hue="cyan",
         neutral_hue="slate",
-        font=gr.themes.GoogleFont("Bricolage Grotesque"),
-        font_mono=gr.themes.GoogleFont("DM Mono"),
+        font=[gr.themes.GoogleFont("Bricolage Grotesque")],
+        font_mono=[gr.themes.GoogleFont("DM Mono")],
     )
 ) as app:
 
